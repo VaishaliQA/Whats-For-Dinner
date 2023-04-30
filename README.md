@@ -83,14 +83,14 @@ The application uses the following data inputs:
 ## Setup 
 
 To clone the Repo. <br/>
-> git clone git@github.com:Verzo361219/Whats-For-Dinner.git
+> git clone git@github.com:VaishaliQA/Whats-For-Dinner.git
 
 
 ## Deployment Link
 
 Here is the link for application. <br/>
 
-🟢 CLICK HERE &#10145; https://verzo361219.github.io/Whats-For-Dinner/
+🟢 CLICK HERE &#10145; https://vaishaliqa.github.io/Whats-For-Dinner/
 
 
 ## Tools 🔧
@@ -110,9 +110,9 @@ Here is the link for application. <br/>
 
 ## Credits ©
 
+- <a href="https://github.com/VaishaliQA"> Vaishali Patel </a>🏆
 - <a href="https://github.com/Verzo361219"> Brandon Hobbs </a> 🏆 <br/>
 - <a href="https://github.com/CBrunote"> Christian Bruno </a>🏆  <br/>
-- <a href="https://github.com/lflyew"> Latoya Lyew </a>🏆  <br/>
-- <a href="https://github.com/VaishaliQA"> Vaishali Patel </a>🏆 
+- <a href="https://github.com/lflyew"> Latoya Lyew </a>🏆  <br/> 
 
 
