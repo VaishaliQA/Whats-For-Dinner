@@ -90,7 +90,7 @@ To clone the Repo. <br/>
 
 Here is the link for application. <br/>
 
-<a href="https://vaishaliqa.github.io/Whats-For-Dinner/">🟢 CLICK HERE &#10145; </a>
+<a href="https://vaishaliqa.github.io/Whats-For-Dinner/">What's for Dinner</a>
 
 
 ## Tools 🔧
